@@ -10,7 +10,7 @@
  ### No olvidar: 
 * ####  Instalar las dependencias
  ```
-  npm i
+  npm install
  ```
 
 ```
@@ -23,7 +23,7 @@
 ```
 
 * ####  Rellenar con los token el archivo .env
-``
+```
 MAPBOX_KEY=#token de MAPBOX
 OPENWEATHER_KEY=#token de OpenWeather
 ```
