@@ -1,7 +1,7 @@
-#app-consola-clima
+# app-consola-clima
 
-##Aplicacion creada para buscar el clima por ciudad.
-###Consumiedo las siguientes APIs:
+## Aplicacion creada para buscar el clima por ciudad.
+### Consumiedo las siguientes APIs:
  
  - https://docs.mapbox.com/
  - https://openweathermap.org/
